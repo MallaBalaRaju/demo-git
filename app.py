@@ -1,4 +1,2 @@
-print("hiii")
-print("hello")
-print("hi")
-hello
+print(2+3)
+print("pep")
